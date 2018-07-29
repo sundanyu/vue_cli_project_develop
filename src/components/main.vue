@@ -1,5 +1,5 @@
 <template>
-  <div>测试欢迎页</div>
+  <div>欢迎页</div>
 </template>
 <script>
 export default {
